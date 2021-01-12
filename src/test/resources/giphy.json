@@ -1,0 +1,222 @@
+{
+  "data": {
+    "type": "gif",
+    "id": "lmuXBIPNTYemLibZUO",
+    "url": "https://giphy.com/gifs/PCHOfficial-lmuXBIPNTYemLibZUO",
+    "slug": "PCHOfficial-lmuXBIPNTYemLibZUO",
+    "bitly_gif_url": "https://gph.is/g/ZYAB6WA",
+    "bitly_url": "https://gph.is/g/ZYAB6WA",
+    "embed_url": "https://giphy.com/embed/lmuXBIPNTYemLibZUO",
+    "username": "PCHOfficial",
+    "source": "https://www.youtube.com/watch?v=UayG2TAqdXI&list=PLuZuPJ2cOxw1GE0X6SfgLPHNZYCvc2wd8&index=4&t=0s",
+    "title": "Excited Party GIF by Publishers Clearing House",
+    "rating": "pg",
+    "content_url": "",
+    "source_tld": "www.youtube.com",
+    "source_post_url": "https://www.youtube.com/watch?v=UayG2TAqdXI&list=PLuZuPJ2cOxw1GE0X6SfgLPHNZYCvc2wd8&index=4&t=0s",
+    "is_sticker": 0,
+    "import_datetime": "2019-08-01 17:40:38",
+    "trending_datetime": "0000-00-00 00:00:00",
+    "images": {
+      "downsized_large": {
+        "height": "270",
+        "size": "2596448",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy.gif",
+        "width": "480"
+      },
+      "fixed_height_small_still": {
+        "height": "100",
+        "size": "13241",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100_s.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100_s.gif",
+        "width": "178"
+      },
+      "original": {
+        "frames": "33",
+        "hash": "0fdf0037cdef3381b1417c545fd83be6",
+        "height": "270",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy.mp4",
+        "mp4_size": "553871",
+        "size": "2596448",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy.gif",
+        "webp": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy.webp",
+        "webp_size": "879342",
+        "width": "480"
+      },
+      "fixed_height_downsampled": {
+        "height": "200",
+        "size": "221815",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200_d.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200_d.gif",
+        "webp": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200_d.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200_d.webp",
+        "webp_size": "132848",
+        "width": "356"
+      },
+      "downsized_still": {
+        "height": "270",
+        "size": "48542",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy-downsized_s.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy-downsized_s.gif",
+        "width": "480"
+      },
+      "fixed_height_still": {
+        "height": "200",
+        "size": "35778",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200_s.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200_s.gif",
+        "width": "356"
+      },
+      "downsized_medium": {
+        "height": "270",
+        "size": "2596448",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy.gif",
+        "width": "480"
+      },
+      "downsized": {
+        "height": "270",
+        "size": "1606651",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy-downsized.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy-downsized.gif",
+        "width": "480"
+      },
+      "preview_webp": {
+        "height": "78",
+        "size": "40038",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy-preview.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy-preview.webp",
+        "width": "138"
+      },
+      "original_mp4": {
+        "height": "270",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy.mp4",
+        "mp4_size": "553871",
+        "width": "480"
+      },
+      "fixed_height_small": {
+        "height": "100",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100.mp4",
+        "mp4_size": "152230",
+        "size": "376340",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100.gif",
+        "webp": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100.webp",
+        "webp_size": "212100",
+        "width": "178"
+      },
+      "fixed_height": {
+        "height": "200",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200.mp4",
+        "mp4_size": "383029",
+        "size": "1141410",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200.gif",
+        "webp": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200.webp",
+        "webp_size": "601080",
+        "width": "356"
+      },
+      "downsized_small": {
+        "height": "162",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy-downsized-small.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy-downsized-small.mp4",
+        "mp4_size": "155178",
+        "width": "288"
+      },
+      "preview": {
+        "height": "126",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy-preview.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy-preview.mp4",
+        "mp4_size": "42595",
+        "width": "224"
+      },
+      "fixed_width_downsampled": {
+        "height": "113",
+        "size": "96717",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200w_d.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200w_d.gif",
+        "webp": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200w_d.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200w_d.webp",
+        "webp_size": "51866",
+        "width": "200"
+      },
+      "fixed_width_small_still": {
+        "height": "57",
+        "size": "4840",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100w_s.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100w_s.gif",
+        "width": "100"
+      },
+      "fixed_width_small": {
+        "height": "57",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100w.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100w.mp4",
+        "mp4_size": "48165",
+        "size": "133158",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100w.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100w.gif",
+        "webp": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100w.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=100w.webp",
+        "webp_size": "84120",
+        "width": "100"
+      },
+      "original_still": {
+        "height": "270",
+        "size": "78707",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy_s.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy_s.gif",
+        "width": "480"
+      },
+      "fixed_width_still": {
+        "height": "113",
+        "size": "16781",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200w_s.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200w_s.gif",
+        "width": "200"
+      },
+      "looping": {
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy-loop.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy-loop.mp4",
+        "mp4_size": "3462009"
+      },
+      "fixed_width": {
+        "height": "113",
+        "mp4": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200w.mp4?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200w.mp4",
+        "mp4_size": "169481",
+        "size": "524827",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200w.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200w.gif",
+        "webp": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200w.webp?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=200w.webp",
+        "webp_size": "250862",
+        "width": "200"
+      },
+      "preview_gif": {
+        "height": "54",
+        "size": "49861",
+        "url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy-preview.gif?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=giphy-preview.gif",
+        "width": "96"
+      },
+      "480w_still": {
+        "url": "https://media1.giphy.com/media/lmuXBIPNTYemLibZUO/480w_s.jpg?cid=8b3757e3ecee65243c4d5125990344c936287e0c73c6d87f&rid=480w_s.jpg",
+        "width": "480",
+        "height": "270"
+      }
+    },
+    "user": {
+      "avatar_url": "https://media0.giphy.com/avatars/PCHOfficial/ZVWqvNquviPP.png",
+      "banner_image": "",
+      "banner_url": "",
+      "profile_url": "https://giphy.com/PCHOfficial/",
+      "username": "PCHOfficial",
+      "display_name": "Publishers Clearing House",
+      "description": "PCH is a leading interactive direct-to-consumer marketing and entertainment company founded in 1953 that’s famous for its millionaire-making sweepstakes along with a unique blend of curated multi-channel shopping and free-to-play, chance to win digital entertainment across a network of web and app-based entertainment properties. \r\n\r\n\r\nPCH is nationally-known for its Prize Patrol and the presentation of big checks, balloons, roses and champagne to winners. The company offers a multitude of ways for consumers to explore product offerings, have fun, and enter to win prizes. More than 40% of the company’s profits go to trusts for the benefit of charities. Sources of revenue for the company include lead generation, digital advertising, search advertising, and the sale of merchandise and magazines. Over $433 million in prizes has been awarded to date.",
+      "is_verified": false,
+      "website_url": "https://PCH.COM",
+      "instagram_url": "https://instagram.com/pchofficial"
+    },
+    "image_original_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.gif",
+    "image_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.gif",
+    "image_mp4_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.mp4",
+    "image_frames": "33",
+    "image_width": "480",
+    "image_height": "270",
+    "fixed_height_downsampled_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200_d.gif",
+    "fixed_height_downsampled_width": "356",
+    "fixed_height_downsampled_height": "200",
+    "fixed_width_downsampled_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/200w_d.gif",
+    "fixed_width_downsampled_width": "200",
+    "fixed_width_downsampled_height": "113",
+    "fixed_height_small_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100.gif",
+    "fixed_height_small_still_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100_s.gif",
+    "fixed_height_small_width": "178",
+    "fixed_height_small_height": "100",
+    "fixed_width_small_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100w.gif",
+    "fixed_width_small_still_url": "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/100w_s.gif",
+    "fixed_width_small_width": "100",
+    "fixed_width_small_height": "57",
+    "caption": ""
+  },
+  "meta": {
+    "status": 200,
+    "msg": "OK",
+    "response_id": "ecee65243c4d5125990344c936287e0c73c6d87f"
+  }
+}

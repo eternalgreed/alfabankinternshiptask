@@ -1,0 +1,11 @@
+{
+  "disclaimer": "Usage subject to terms: https://openexchangerates.org/terms",
+  "license": "https://openexchangerates.org/license",
+  "timestamp": 1610377200,
+  "base": "USD",
+  "rates": {
+    "BTC": 0.00003000812,
+    "EUR": 0.823895,
+    "RUB": 74.822
+  }
+}
