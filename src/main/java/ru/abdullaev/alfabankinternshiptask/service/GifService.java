@@ -21,10 +21,5 @@ public class GifService {
         return gifURL;
     }
 
-/*    public GifModel getRandomGif(String tag) {
-        GifModel gifModel = gifRequestClient.getRandomGif(apiId, tag);
-        return gifModel;
-    }*/
-
 
 }
