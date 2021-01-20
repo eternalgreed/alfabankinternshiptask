@@ -6,7 +6,6 @@ import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
-import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
@@ -20,7 +19,6 @@ import ru.abdullaev.alfabankinternshiptask.service.GifService;
 import java.util.Map;
 
 import static org.mockito.ArgumentMatchers.any;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @WebMvcTest(GifCurrencyController.class)
@@ -39,7 +37,6 @@ class GifCurrencyControllerTest {
 
     @Test
     void testGifCurrencyController() throws Exception {
-
         GifModel gifModel = new GifModel();
         gifModel.setData(Map.of("image_original_url", "https://media0.giphy.com/media/lmuXBIPNTYemLibZUO/giphy.gif"));
         CurrencyModel today = new CurrencyModel();
